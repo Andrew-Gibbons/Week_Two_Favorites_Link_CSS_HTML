@@ -4,8 +4,32 @@ p {
 }
 
     hi {
+        background-color: rgb(50, 115, 220, 0.3);
+        background-color: hsla(14, 100%, 53%, 0.6);
         color: blue;
+        text-decoration: none:
     }
+
+    ul {
+        /* Make background of unordered list yellow. */
+       background-color: yellow
+
+       }
+
+       h2 {
+           font-size: 30px:
+
+           }
+
+        #most-favorite {
+            background-color: cyan
+            text-decoration: underline
+        }
+
+          #Favorite Foods {
+
+          }
+         */
 
     body {
         background-color: azure;
